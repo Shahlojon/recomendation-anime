@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+numpy
+scipy
+pandas
+scikit-build
+cmake
+implicit
+scikit-learn
+json5
+pyarrow
+fastparquet
+
